@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './presentation.component.css'
 })
 export class PresentationComponent {
-  title = 'PortfolioWeb-presentation';
+
 }
