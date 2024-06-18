@@ -1,0 +1,10 @@
+.image-container > img {
+    width: 350px;
+    border-radius: 50%;
+    border: 15px solid #7E5F3D;
+    box-shadow: 7px 7px 6px 0px #779978;
+}
+
+.media-container {
+    background-color: #F5F5F0;
+}
