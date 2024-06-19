@@ -6,6 +6,7 @@
     margin-top: 80px;
     vertical-align: top;
 }
+
 .image-container{
     margin-top: 30px;
 }
@@ -27,11 +28,11 @@
     height: 300px;
     margin-top: 70px;
 }
-
 .media-container > *{
     margin: 10px 0;
     padding: 5px;
 }
+
 .name-container{
     margin-top: 93px;
 }
