@@ -12,7 +12,7 @@
 }
 .image-container > img {
     width: 350px;
-    border-radius: 50%;
+    border-radius: 35%;
     border: 15px solid #7E5F3D;
     box-shadow: 7px 7px 6px 0px #779978;
 }
@@ -42,3 +42,12 @@
     font-size: 6em;
     margin: 0;
 }
+/*.img-presentation:hover {
+    animation-name: icons;
+    animation-duration: 2s;
+}
+
+@keyframes icons {
+    from {width: 33px;}
+    to {width: 40px;}
+}*/
